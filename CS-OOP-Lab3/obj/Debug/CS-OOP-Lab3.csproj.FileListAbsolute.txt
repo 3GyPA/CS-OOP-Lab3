@@ -1,0 +1,11 @@
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\bin\Debug\CS-OOP-Lab3.exe.config
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\bin\Debug\CS-OOP-Lab3.exe
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\bin\Debug\CS-OOP-Lab3.pdb
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\bin\Debug\Newtonsoft.Json.dll
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\bin\Debug\Newtonsoft.Json.xml
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.csproj.AssemblyReference.cache
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.csproj.SuggestedBindingRedirects.cache
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.csproj.CoreCompileInputs.cache
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.csproj.CopyComplete
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.exe
+F:\Program Files\GitHub Repositories\CS-OOP-Lab3\CS-OOP-Lab3\obj\Debug\CS-OOP-Lab3.pdb
